@@ -19,7 +19,6 @@ Each topic has a list of resources (articles, white papers, videos, etc.) and a 
 
 #### Resources
 
-- [InnerSource Fundamentals course on GitHub Learning Lab](https://lab.github.com/githubtraining/innersource-fundamentals)
 - [Innersource commons](https://paypal.github.io/InnerSourceCommons/)
   - Free book: [Getting Started With InnerSource](https://innersourcecommons.org/learn/books/getting-started-with-innersource/)
 - [An introduction to innersource](https://resources.github.com/whitepapers/introduction-to-innersource/) GitHub white paper

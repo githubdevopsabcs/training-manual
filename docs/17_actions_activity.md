@@ -111,4 +111,3 @@ Head over to **Releases** and marvel at the outcome:
 
 - Edit the Configuration file to your liking and run your Action again
 - Try out other Actions in the [Marketplace](https://github.com/marketplace?type=actions)
-- Learn more about Actions via the [GitHub Learning Lab](https://lab.github.com/search?q=actions)
