@@ -103,7 +103,7 @@ For this class, we will use a basic text editor to interact with our code. Let's
 
 ### Step 5: Install GitHub CLI (optional)
 
-The GitHub command-line tool has funtionality that may be useful during the labs setup.
+The GitHub command-line tool has functionality that may be useful during the labs setup.
 
 Install GitHub CLI from [here](https://github.com/cli/cli#installation), then confirm it is available on your console:
 
@@ -141,4 +141,3 @@ code .
 Congratulations! You should now have a working version of Git and a text editor on your system. If you still have some time before class begins, here are some interesting resources you can check out:
 
 - **[github.com/explore](https://www.github.com/explore)** - Explore is a showcase of interesting projects in the GitHub Universe. See something you want to re-visit? Star the repository to make it easier to find later.
-- **[lab.github.com](https://lab.github.com)** - The Learning Lab bot will guide you through projects and provide feedback right from your GitHub repository, helping you build every step of the way.
