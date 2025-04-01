@@ -131,4 +131,3 @@ code .
 おめでとうございます。 これで、あなたのシステムに、作業できるバージョンのGitとテキストエディタがあるはずです。 クラス開始前にまだ時間がある場合は、以下の興味深い資料をご覧ください。
 
 - **[github.com/explore](https://www.github.com/explore)** - Exploreでは、GitHub Universeにおける興味深いプロジェクトを展示しています。 後で再度見てみたいプロジェクトはありましたか？ 後で見つけやすくするために、リポジトリにStarを付けましょう。
-- **[lab.github.com](https://lab.github.com)** - GitHub Learning Lab では、ボットがプロジェクトを案内してくれ、各手順を実践できるように、即座に GitHub リポジトリからのフィードバックを与えてくれます。
