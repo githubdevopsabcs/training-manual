@@ -101,11 +101,20 @@ Replace `YOUR_PROXY_USERNAME` with the username used to authenticate into your p
 
 For this class, we will use a basic text editor to interact with our code. Let's make sure you have one installed and ready to work from the command-line.
 
+### Step 5: Install GitHub CLI (optional)
+
+The GitHub command-line tool has funtionality that may be useful during the labs setup.
+
+Install GitHub CLI from [here](https://github.com/cli/cli#installation), then confirm it is available on your console:
+
+```sh
+gh --version
+```
+
 #### Pick your editor
 
 You can use almost any text editor, but we have the best success with the following:
 
-- [Atom](https://atom.io/)
 - [Visual Studio Code](https://code.visualstudio.com)
 - Notepad
 - Vi or Vim
@@ -113,21 +122,13 @@ You can use almost any text editor, but we have the best success with the follow
 - Notepad++
 - GitPad
 
-If you do not already have a text editor installed, go ahead and download and install one of the above editors now! You can also configure Atom or Visual Studio Code as your default text editor for Git commands using the [instructions at docs.github.com](https://docs.github.com/github/using-git/associating-text-editors-with-git).
+If you do not already have a text editor installed, go ahead and download and install one of the above editors now! You can also configure Visual Studio Code as your default text editor for Git commands using the [instructions at docs.github.com](https://docs.github.com/github/using-git/associating-text-editors-with-git).
 
 #### Your editor on the command-line
 
 After you have installed an editor, confirm you can open it from the command-line.
 
-If installed properly, the following command will open the Atom text editor:
-
-```sh
-atom .
-```
-
-_**Note:** If you are working on a Mac, you will need to Install Shell Commands from the Atom menu, this happens as part of the installation process for Windows._
-
-Or the following command can also open the current directory with Visual Studio Code:
+If installed properly, the following command will open the Visual Studio Code editor:
 
 ```sh
 code .
